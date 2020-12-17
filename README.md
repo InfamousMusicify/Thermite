@@ -1,5 +1,6 @@
-# Thermite  
-Thermite - A Minecraft: Java Data Pack - Melt Obsidian, evaporate ice and water.  
+# [Thermite 🎥](https://youtu.be/_JLxFoCW2iE)  
+### Thermite - A Minecraft: Java Data Pack  
+#### Melt Obsidian, evaporate ice and water.  
 
 ### Tested in 1.16.4  
 Works with 1.16 versions of Minecraft, backwards compatability comming soon.  
