@@ -3,7 +3,7 @@
 #### Melt Obsidian, evaporate ice and water.  
 
 ### Tested in 1.16.4  
-Works with 1.16 versions of Minecraft, backwards compatability comming soon.  
+Works with 1.16+ versions of Minecraft.  (Compatible with 1.17 snapshots.)
 
 #### How to Use:
 Place a Ancient Debris on a Magma Block and it will create Thermite, the reaction will turn nearby Obsidian into Magma.  
