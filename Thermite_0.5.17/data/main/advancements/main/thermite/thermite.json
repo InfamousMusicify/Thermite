@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Thermite 0.4                                                   ",
+        "description": "Place Ancient Debris on a Magma block to create a Thermite-Bomb. \nTurns Obsidian to Magma blocks. \nStanding to close will hurt!",
+        "icon": {
+            "item": "minecraft:magma_block"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "main:main/thermite",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
