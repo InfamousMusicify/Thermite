@@ -16,5 +16,7 @@ __Tested in 1.17.1
 
 ### [How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)  
 
+### [🔗Download current latest version🔗](https://github.com/InfamousMusicify/Thermite/archive/refs/heads/main.zip)
+
 Cheers  
 - Infamous  
