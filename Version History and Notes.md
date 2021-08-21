@@ -1,3 +1,10 @@
+# Minecraft 1.17  
+
+### Minecraft 1.17-1.17.x: 
+  ~V0.5:  
+Updated for 1.17, Fixed bug that would have cropped up in 17 by fixing json format.
+Added waterlogged block tag to destroy kelp and stuff to improve server performance.
+
 # Minecraft 1.16 - 1.16.4  
 
 ### Minecraft 1.16.4: 
