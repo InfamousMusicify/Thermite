@@ -1,6 +1,7 @@
 # [🎥Thermite](https://youtu.be/_JLxFoCW2iE) - Sister Pack [Cryo-Bomb🔗](https://github.com/InfamousMusicify/Cryo-Bomb/) 
 ### Thermite - A Minecraft: Java Data Pack  
-#### Melt Obsidian, evaporate ice and water.  
+__Melt Pesky Obsidian.__   
+Evaporate ice and water.   
 
 __How to Use:__  
 _Place a Ancient Debris on a Magma Block and it will create Thermite, the reaction will turn nearby Obsidian into Magma.  
