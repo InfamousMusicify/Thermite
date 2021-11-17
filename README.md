@@ -1,5 +1,5 @@
 # [🎥Thermite](https://youtu.be/_JLxFoCW2iE) - Sister Pack [Cryo-Bomb🔗](https://github.com/InfamousMusicify/Cryo-Bomb/) 
-### Thermite - A Minecraft: Java Data Pack  
+### Thermite - Minecraft - Java Edition - Data Pack
 __Melt Pesky Obsidian.__   
 Evaporate ice and water.   
 
