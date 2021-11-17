@@ -8,7 +8,7 @@ _Place a Ancient Debris on a Magma Block and it will create Thermite, the reacti
 Water and Ice nearby will be evaporated.  
 Standing to close may hurt._  
 
- ## [🔗Download this version🔗](https://github.com/InfamousMusicify/Thermite/archive/refs/heads/1.16.zip)
+ ## [🔗Download🔗](https://github.com/InfamousMusicify/Thermite/archive/refs/heads/1.16.zip)
  
 [Navigate to Branches for older versions.](https://github.com/InfamousMusicify/Thermite/branches)   
 
