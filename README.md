@@ -13,7 +13,7 @@ Standing to close may hurt._
 [Navigate to Branches for older versions.](https://github.com/InfamousMusicify/Thermite/branches)   
 
 Original pack: [Lava Sponge](https://www.planetminecraft.com/data-pack/lava-sponges-1-16/)  
-By: Cortexiphen
+By: Cortexiphen  
 (I just improved the pack for my purposes and made it multipurpose.)  
 
 [How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)  
