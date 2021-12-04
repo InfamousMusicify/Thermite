@@ -10,7 +10,7 @@ Standing to close may hurt._
 
 ### Hit the advancements key to see in game info and help!
 
-## [🔗Download🔗](https://github.com/InfamousMusicify/Thermite/archive/refs/heads/main.zip)
+## [🔗Download🔗](https://github.com/InfamousMusicify/Thermite/archive/refs/heads/1.17.zip)
 
 ### [Navigate to Branches for older versions.](https://github.com/InfamousMusicify/Thermite/branches)   
 [How to Install a Datapack](https://youtu.be/JHEjZlVlqGE) 
