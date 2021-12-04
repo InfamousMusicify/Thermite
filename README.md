@@ -8,6 +8,8 @@ _Place a Ancient Debris on a Magma Block and it will create Thermite, the reacti
 Water and Ice nearby will be evaporated.  
 Standing to close may hurt._  
 
+#### If you are wearing a Netherite Chestplate or a __*[Chains+](https://github.com/InfamousMusicify/Chains-Plus)*__ Chest piece you will not be damaged by the blast!  
+
 ### Hit the advancements key to see in game info and help!
 
 ## [🔗Download🔗](https://github.com/InfamousMusicify/Thermite/archive/refs/heads/main.zip)
