@@ -1,7 +1,7 @@
 {
     "display": {
-        "title": "Thermite 0.4                                                   ",
-        "description": "Place Ancient Debris on a Magma block to create a Thermite-Bomb. \nTurns Obsidian to Magma blocks. \nStanding to close will hurt!",
+        "title": "Melt Pesky Obsidian!!                                                                ",
+        "description": "Use magma and Ancient Debris to create a super hot blast!\nTurns Obsidian to Magma blocks.\nStanding to close will hurt!\nIf you are wearing a Netherite Chestplate or a Chains+ Chest piece you will not be damaged by the blast!",
         "icon": {
             "item": "minecraft:magma_block"
         },

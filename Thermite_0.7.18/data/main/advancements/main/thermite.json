@@ -4,13 +4,13 @@
             "item": "minecraft:ancient_debris"
         },
         "title": {
-            "text": "Thermite",
+            "text": "Thermite                                                                         ",
             "color": "white",
             "bold": false,
             "italic": false
         },
         "description": {
-            "text": "Use magma and Ancient Debris to create a super hot blast!",
+            "text": "Place Ancient Debris on a Magma block to create a Thermite Bomb.",
             "color": "green",
             "bold": false,
             "italic": true
