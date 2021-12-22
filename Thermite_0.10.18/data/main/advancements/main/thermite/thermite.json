@@ -1,7 +1,7 @@
 {
     "display": {
         "title": "Melt Pesky Obsidian!!                                                                ",
-        "description": "Turns Obsidian to Magma blocks and Evaporates water.\nStanding to close will hurt!\nIf you are wearing a Netherite Chestplate or a Chains+ Chest piece you will not be damaged by the blast!",
+        "description": "Turns Obsidian to Magma blocks and Evaporates water.\nStanding to close will hurt!\nIf you are wearing a Netherite Chestplate or a Chains+ Chest piece you will not be damaged by the blast!\nPlace Blue Ice and Ancient debris in a crafting grid, spit your leggings on the ground and eat the item you crafted to give your leggings Thermodynamics. (immune to Thermite/Cryo-Bomb)",
         "icon": {
             "item": "minecraft:magma_block"
         },
