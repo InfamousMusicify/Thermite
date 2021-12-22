@@ -3,6 +3,9 @@
 __Melt Pesky Obsidian.__   
 Evaporate ice and water.   
 
+# This page is deprecated!
+## Now merged into [Thermodynamic](https://github.com/InfamousMusicify/Thermodynamic), check there for updates on this mechanic!
+
 __How to Use:__  
 _Place a Ancient Debris on a Magma Block and it will create Thermite, the reaction will turn nearby Obsidian into Magma.  
 Water and Ice nearby will be evaporated.  
