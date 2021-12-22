@@ -23,7 +23,8 @@ execute at @e[type=minecraft:armor_stand,tag=therm_entity] as @s run fill ~-2 ~-
 execute at @e[type=minecraft:armor_stand,tag=therm_entity] as @s run fill ~-3 ~-4 ~-3 ~3 ~3 ~3 minecraft:air replace minecraft:ice
 execute at @e[type=minecraft:armor_stand,tag=therm_entity] as @s run fill ~-4 ~-3 ~-4 ~4 ~2 ~4 minecraft:air replace minecraft:ice
 # Effect Players
-execute as @e[distance=..4] unless entity @s[nbt={Inventory:[{Slot:102b, tag:{display:{Lore:['{"text":"Chains+","color":"gray","italic":false}']}}}]}] unless entity @s[nbt={Inventory:[{Slot:102b, id: "minecraft:netherite_chestplate"}]}] at @e[type=minecraft:armor_stand,tag=therm_entity,distance=..4] run function thermite:effect
+execute as @e[distance=..4] unless entity @s[nbt={Inventory:[{Slot:102b, tag:{display:{Lore:['{"text":"Chains+","color":"gray","italic":false}']}}}]}] unless entity @s[nbt={Inventory:[{Slot:101b, tag:{display:{Lore:['{"text":"Thermodynamic","color":"gray","italic":false}']}}}]}] unless entity @s[nbt={Inventory:[{Slot:102b, id: "minecraft:netherite_chestplate"}]}] at @e[type=minecraft:armor_stand,tag=therm_entity,distance=..4] run function thermite:effect
+
 # Viusals
 execute at @e[type=minecraft:armor_stand,tag=therm_entity] run particle minecraft:flame ~ ~.55 ~ 2 2 2 1 3000 force
 execute at @e[type=minecraft:armor_stand,tag=therm_entity] run particle minecraft:flame ~ ~.55 ~ 2 2 2 1 3000 force
