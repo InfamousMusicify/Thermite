@@ -3,7 +3,7 @@
 __Melt Pesky Obsidian.__   
 Evaporate ice and water.   
 
-# This page is deprecated!
+# This pack is discontinued!
 ## Now merged into [Thermodynamic](https://github.com/InfamousMusicify/Thermodynamic), check there for updates on this mechanic!
 
 __How to Use:__  
